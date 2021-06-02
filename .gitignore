@@ -1,1 +1,6 @@
 *hdf5
+
+# ignoring all hidden files
+.*
+# un-ignoring gitignore
+!/.gitignore
